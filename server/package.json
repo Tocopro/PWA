@@ -8,10 +8,11 @@
     "description": "just another text editor",
     "main": "server.js",
     "scripts": {
-        "server": "nodemon server.js --ignore client"
+        "server": "nodemon server.js ",
+        "start": "node server"
     },
     "keywords": [],
-    "author": "",
+    "author": "nicholas w",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"
