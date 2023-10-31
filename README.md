@@ -45,6 +45,6 @@
 
   Please contact me with any questions.. 
 
-  Github URL: https://github.com/aungy5
+  Github URL: https://github.com/Tocopro/PWA
 
-  Email: aungvary5@gmail.com
+  Email: nicwac@gmail.com
