@@ -2,7 +2,7 @@
 
   # Text Editor - PWA
   
-  Link to deployed application => 
+  Link to deployed application =>  https://projectmodule19-180b63121c2b.herokuapp.com
   
   ## Table of Contents
 - [Description](#description)
